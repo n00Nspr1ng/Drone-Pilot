@@ -22,11 +22,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ******************************************************************************/
 
-//struct timeval_1 {
-//	long tv_sec;
-//	long tv_usec;
-//};
-
 typedef struct PID_STRUCT{
 	char name[10]; //name of pid entity
 	float pv; //process value
@@ -70,4 +65,3 @@ void setDGain(PID_STRUCT *pid, float gain);
 float getDGain(PID_STRUCT *pid);
 void setPidDeadBand(PID_STRUCT *pi, float value);
 float getPidDeadBand(PID_STRUCT *pi);
-//void updatePidTv(PID_STRUCT *pid);

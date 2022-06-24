@@ -4,7 +4,7 @@
 
 drone:
 
-![KakaoTalk_20220622_162920702](https://user-images.githubusercontent.com/97090402/174970138-2adf39a9-681d-4a65-9af4-87a0461e3e95.jpg){: width="200" height="200"}
+![KakaoTalk_20220622_162920702](https://user-images.githubusercontent.com/97090402/174970138-2adf39a9-681d-4a65-9af4-87a0461e3e95.jpg)
 
 circuit:
 
